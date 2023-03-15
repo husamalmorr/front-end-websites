@@ -1,0 +1,348 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 969px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+  grid-template-rows: repeat(1, auto);
+  height: auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
+  min-height: 410px;
+  grid-gap: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Rectangle16.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.allrecipes.com/thmb/nzVo4U1V3ygCcC-seYQm46jpFHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/M7007481_Ratatouille_Pizza_131-e4b6a91f521c42eda294945c98ba4637.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.chefspencil.com/wp-content/uploads/Arabian-cuisine-960x960.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://bstatic.com/data/xphoto/1182x887/529/52958313.jpg?size=S");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://fullsuitcase.com/wp-content/uploads/2021/01/Traditional-British-food.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.azamara.com/sites/default/files/heros/gettyimages-1066110176.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-list-2 {
+  grid-template-rows: repeat(1, auto);
+  margin-top: 9px;
+  margin-bottom: 44px;
+}
+
+.u-section-1 .u-repeater-2 {
+  grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
+  min-height: 410px;
+  grid-gap: 10px;
+}
+
+.u-section-1 .u-image-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Rectangle16.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.allrecipes.com/thmb/nzVo4U1V3ygCcC-seYQm46jpFHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/M7007481_Ratatouille_Pizza_131-e4b6a91f521c42eda294945c98ba4637.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-9 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.chefspencil.com/wp-content/uploads/Arabian-cuisine-960x960.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-9 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-10 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://bstatic.com/data/xphoto/1182x887/529/52958313.jpg?size=S");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-10 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-11 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://fullsuitcase.com/wp-content/uploads/2021/01/Traditional-British-food.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-11 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-12 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+.u-section-1 .u-image-12 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://www.azamara.com/sites/default/files/heros/gettyimages-1066110176.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-12 {
+  padding: 30px 30px 9px;
+}
+
+.u-section-1 .u-text-13 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 118px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: 9px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 200px;
+  }
+
+  .u-section-1 .u-repeater-2 {
+    min-height: 339px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+  }
+
+  .u-section-1 .u-repeater-2 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 591px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2577px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-list-2 {
+    margin-top: 11px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-repeater-2 {
+    grid-template-columns: 100%;
+    min-height: 1208px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-11 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    margin-top: 25px;
+  }
+
+  .u-section-1 .u-list-2 {
+    margin-top: 9px;
+  }
+}
